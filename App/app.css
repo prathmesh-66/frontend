@@ -1,0 +1,14 @@
+.app{
+    width: 100%;
+    min-height:1000px;
+    display: flex;
+    flex-direction: row;
+
+
+    margin-top: 5rem;
+    justify-content: space-around;
+}
+
+.applied{
+    margin:3rem;
+}
